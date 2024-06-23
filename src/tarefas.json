@@ -1,0 +1,31 @@
+{
+  "tarefas": [
+    {
+      "0": false,
+      "1": true,
+      "2": true,
+      "id": "1",
+      "text": "Criar funcionalidade X no sistema",
+      "category": "Trabalho",
+      "isCompleted": false
+    },
+    {
+      "0": false,
+      "1": true,
+      "2": true,
+      "id": "2",
+      "text": "Ir para a escola",
+      "category": "Estudos",
+      "isCompleted": false
+    },
+    {
+      "0": false,
+      "1": true,
+      "2": true,
+      "id": "3",
+      "text": "Ir para academia",
+      "category": "Pessoal",
+      "isCompleted": false
+    }
+  ]
+}
